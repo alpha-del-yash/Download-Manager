@@ -114,3 +114,4 @@ aim is to organize downloaded files into folders based on their type. for exampl
 
 - customized sorting (as in the user gets to choose what folder to save this file in, just by pressing a few keys)
 - create a new folder whenever needed on its own.
+- zip
