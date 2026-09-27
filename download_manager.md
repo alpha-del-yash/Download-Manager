@@ -12,6 +12,7 @@ aim is to organize downloaded files into folders based on their type. for exampl
 
 ## visualization
 
+```
     |-----------|
     | phase-1   |
     |-----------|
@@ -25,9 +26,11 @@ aim is to organize downloaded files into folders based on their type. for exampl
     |-----------|
     |  phase-3  |
     |-----------|
+```
 
 ## Deep-dive into the visualisation
 
+```
       |---------------------------------|
       |     count number of files       |<-------|
       |     in the folder (count)       |        |
@@ -70,6 +73,7 @@ aim is to organize downloaded files into folders based on their type. for exampl
  |              |----------------|
  |--------------| count= count-1 |
                 |----------------|
+```
 
 ---
 
